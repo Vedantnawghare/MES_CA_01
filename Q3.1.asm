@@ -1,0 +1,4 @@
+MOV 30H, #44H
+MOV 40H, #91H
+
+MOV A, 30H
